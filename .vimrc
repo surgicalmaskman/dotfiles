@@ -1,0 +1,11 @@
+set number
+set title
+set showmode
+set ruler
+set laststatus=2
+set enc=utf-8
+set list
+set expandtab
+set tabstop=2
+set autoindent
+set noswapfile
